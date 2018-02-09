@@ -1,0 +1,18 @@
+h1{
+	color: red;
+	/*border-color: blue;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 8px orange dashed;
+}
+
+li{
+	color: rgba(0, 200, 100, 0.5);
+}
+
+body{
+	background: pink;
+	/*background: url(https://i.pinimg.com/236x/8c/7b/21/8c7b21c8f901eb6f2023e44163dd3b1e--cross-drawing-door-drawing.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
