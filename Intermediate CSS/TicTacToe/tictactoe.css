@@ -1,0 +1,45 @@
+h1 {
+	text-align: center;
+}
+
+td {
+	width : 100px;
+	height: 100px;
+}
+
+
+#ul {
+	border-right:  2px gray solid;
+	border-bottom: 2px gray solid;
+}
+
+#ur {
+	border-left:   2px gray solid;
+	border-bottom: 2px gray solid;
+}
+
+#ll {
+	border-right:  2px gray solid;
+	border-top:    2px gray solid;
+}
+
+#lr {
+	border-left:  2px gray solid;
+	border-top:   2px gray solid;
+}
+
+#top {
+	border-bottom: 2px gray solid;
+}
+
+#low {
+	border-top: 2px gray solid;
+}
+
+#left {
+	border-right: 2px gray solid;
+}
+
+#right {
+	border-left: 2px gray solid;
+}

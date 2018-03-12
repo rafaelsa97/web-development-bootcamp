@@ -1,0 +1,24 @@
+p {
+	font-family: 	 Dosis;
+	font-size: 		 2em;
+	font-weight: 	 normal;
+	text-align: 	 left;
+	text-decoration: normal;
+	/*line-height: 2;*/
+}
+
+h1 {
+	font-family: 	 Coiny;
+	font-size:   	 5em;
+	text-align: 	 center;
+	text-decoration: underline;
+}
+
+body {
+	font-size: 	 10px;
+	line-height: 1.2;
+}
+
+span {
+	
+}
